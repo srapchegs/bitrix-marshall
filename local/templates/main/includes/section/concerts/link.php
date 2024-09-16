@@ -1,0 +1,4 @@
+<li> <a href="https://www.facebook.com"> <img alt="Facebook logo" src="/local/templates/marshall/assets/img/facebook-ico.svg"> </a> </li>
+<li> <a href="https://www.instagram.com"> <img alt="Instagram logo" src="/local/templates/marshall/assets/img/instagram-ico.svg"> </a> </li>
+<li><a href="https://www.twitter.com"><img alt="Twitter logo" src="/local/templates/marshall/assets/img/twitter-ico.svg"></a></li>
+<li><a href="https://www.spotify.com" style="font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));"><img alt="Spotify logo" src="/local/templates/marshall/assets/img/spotify-ico.svg"></a></li>

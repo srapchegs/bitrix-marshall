@@ -1,0 +1,1 @@
+<img src="/local/templates/main/assets/img/welcome.jpg" alt="">
